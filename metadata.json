@@ -1,0 +1,7 @@
+{
+  "name": "Neural Studio",
+  "description": "An AI-first collaborative canvas for researchers and creators, powered by Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
